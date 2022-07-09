@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "goiteens-homework-position",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5504
+	}
+}
